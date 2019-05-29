@@ -1,0 +1,163 @@
+*{
+  font-family: sans-serif;
+  text-decoration: none;
+}
+body {
+  background-color:#f2f2f2;
+  font-family: sans-serif;
+  width: 1536px;
+}
+.btn{
+  background-color: LightPink;
+  border-color:white;
+  width:100%;
+  text-align: center;
+  margin: 10px 10px 10px 0px;
+  height: 40px;
+  border-radius: 10px;
+}
+.btn:hover{
+  background-color: green;
+  border-color:white;
+  width:100%;
+  text-align: center;
+  margin: 10px 10px 10px 0px;
+}
+.btn a{
+  color:white;
+}
+
+.top-header{
+  
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.top-header i{
+  margin-left: 10px
+}
+.top-search{
+  display: grid;
+  grid-template-columns: auto 2fr 1fr;
+  margin-bottom: 1px;
+}
+.top-search i{
+  margin-left: -30px;
+  margin-top: 7px;
+}
+.header a{
+  color: white;
+}
+.header{
+  background-color:#f2f2f2;
+  height: 300px;
+  background:url("https://i.stack.imgur.com/p9mUO.jpg");
+  background-size: cover;
+  color:white;
+}
+.header select{
+  margin-left: 50px
+}
+.header-h2{
+  margin-left: 50px;
+  margin-top: 
+}
+.blank{
+  height: 50px;
+}
+.header p{
+  margin-left: 50px;
+  max-width: 250px;
+}
+.header-anchor{
+  margin:40px;
+}
+.header-anchor1{
+  margin-left: 400px;
+}
+
+
+img {
+  border-radius: 5px;
+  white-space:nowrap;
+  margin: 10px 0px 10px 0px;
+}
+.body-imagesss
+  img {
+  border-radius: 5px;
+  white-space:nowrap;
+  margin: 10px 10px 10px 0px;
+}
+.body{
+  display:flex;
+  text-align: left;
+  margin-top: 40px
+}
+.item{
+  max-width: 400px;
+  width: 400px;
+  background-color: #f2f2f2;
+  margin-right: 42px;
+  margin-left:42px
+}
+.items{
+  max-width: 400px;
+  width: 400px;
+  background-color: #f2f2f2;
+  margin-right: 42px;
+  margin-left:50px
+}
+.clothing{
+  margin-left: -30px;
+}
+.item1{
+  max-width: 400px;
+  width: 400px;
+  background-color: #f2f2f2;
+  margin-right: 42px;
+  margin-left:50px
+}
+.options{
+  margin-left:100px;
+}
+.label-anchor{
+  width
+}
+
+.footer{
+  display:flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.footer-about{
+  
+}
+.navigator{
+  background-color:#f2f2f2;
+  text-align:center;
+  margin-top: 30px;
+}
+.searchbar{
+  display: grid;
+  grid-template-columns: auto 1fr 1fr;
+    background: white;
+    border: 1px solid pink;
+    border-radius: 5px;
+    height: 30px;
+    
+}
+.searchbar1{
+  display: grid;
+  grid-template-columns: auto 1fr 1fr;
+    background: white;
+    border: 1px solid pink;
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 
+}
+.top-search input, select{
+  box-sizing: border-box;
+}
+.departments{
+  height: 25px;
+}
