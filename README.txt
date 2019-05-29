@@ -5,7 +5,7 @@ Người thực hiện : Nguyễn Trung Hiếu.
 # Liên kết :
 Link đề bài : https://www.lucidchart.com/pages/templates/wireframe/ecommerce-wireframe-template. <br>
 Tham khảoo cách sử dụnng grid : https://www.w3schools.com/css/css_grid.asp. <br>
-Link bài làm online : https://hieunguyenbbr1501.github.io/Bai1-VNP/
+Link bài làm online : https://hieunguyenbbr1501.github.io/tuan1-VNP/
 # Hướng dẫn sử dụng :
 Chạy file index.html.
 # Kiến thức nắm đựoc :
